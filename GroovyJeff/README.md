@@ -25,3 +25,24 @@ Challenges:
   - find and map the minimum and maximum distances between any two regions/countries and the maximum distance within a given region
 
   - find the shortest path that touches (for example) all 48 of the lower United States
+
+Resources:
+
+  - https://www.naturalearthdata.com/ has a lot of good data at lower resolution, good for initial testing
+
+  - Shapes of countries:
+
+    - https://gadm.org/
+    - https://www.geoboundaries.org/globalDownloads.html
+
+  - Population:
+
+    - https://www.earthdata.nasa.gov/data/projects/gpw
+
+    - https://www.worldpop.org/
+
+  - Astronomical data incl sunrise/set/twilight/etc:
+
+    - https://naif.jpl.nasa.gov/naif/ for general overview
+    - https://juliaastro.org/SPICE/stable/ is a Julia wrapper
+
