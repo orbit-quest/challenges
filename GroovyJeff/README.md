@@ -46,3 +46,7 @@ Resources:
     - https://naif.jpl.nasa.gov/naif/ for general overview
     - https://juliaastro.org/SPICE/stable/ is a Julia wrapper
 
+Issues:
+
+  - images created when solving these problems can be very large, and some image viewers won't display them: gimp and nip2 (which uses the VIPS library) generally can
+
